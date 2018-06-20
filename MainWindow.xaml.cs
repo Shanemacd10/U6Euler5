@@ -1,3 +1,7 @@
+//U6Euler5
+//Shane MacDonald
+//This program calculates the first number mith multipuls 1-20
+//june 19, 2018
 using System;
 using System.Collections.Generic;
 using System.Linq;
